@@ -1,8 +1,4 @@
 # Task-Board
 Source Code:
-HTML,
-CSS,
-JAVASCRIPT,
-BOOTSTRAP,
-LOCAL STORAGE,
-JSON
+HTML5   CSS3   Bootstrap   :JavaScript 
+Local Storage  DOM Manipulations  -JSON
